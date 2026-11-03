@@ -52,3 +52,14 @@ MAE, MSE, dan R² bisa ditampilkan sebagai informasi tambahan, tetapi bukan metr
 
 4. Buka `PUBG_Mobile_Fadil.ipynb`.
 5. Jalankan setiap cell dari atas ke bawah.
+
+# REFERENSI
+Aguilar-Ruiz, J. S., & Michalak, M. (2024). Classification performance assessment for imbalanced multiclass data. Scientific Reports, 14, Article 10759. https://doi.org/10.1038/s41598-024-61365-z
+
+Emami, S., & Martínez-Muñoz, G. (2025). Condensed-gradient boosting. International Journal of Machine Learning and Cybernetics, 16, 687–701. https://doi.org/10.1007/s13042-024-02279-0
+
+Gunasekara, N., Pfahringer, B., Gomes, H., et al. (2024). Gradient boosted trees for evolving data streams. Machine Learning, 113, 3325–3352. https://doi.org/10.1007/s10994-024-06517-y
+
+Pasaribu, J., Yudistira, N., & Mahmudy, W. F. (2024). Tabular data classification and regression: XGBoost or deep learning with retrieval-augmented generation. IEEE Access, 12, 191719–191732. https://doi.org/10.1109/ACCESS.2024.3518205
+
+Wainer, J. (2024). An empirical evaluation of imbalanced data strategies from a practitioner’s point of view. Expert Systems with Applications, 256, Article 124863. https://doi.org/10.1016/j.eswa.2024.124863
